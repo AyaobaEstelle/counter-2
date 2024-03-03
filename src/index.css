@@ -485,15 +485,16 @@ footer p {
 @media screen and (max-width: 425px) {
   body {
     font-size: 6px;
+    overflow: none;
   }
 
   .nav-header {
     padding: 2em .5em;
-    font-size: .8rem;
+    font-size: .9rem;
   }
 
   nav a {
-    font-size: .8rem;
+    font-size: .9rem;
   }
 
   nav a:last-of-type {
@@ -505,19 +506,19 @@ footer p {
   }
 
   .counter h1 {
-    font-size: 12rem;
+    font-size: 10rem;
     letter-spacing: -4px;
   }
 
   .counter-btn_plus,
   .counter-btn_minus,
   .counter-btn_reset {
-    width: 96px;
-    height: 45px;
+    width: 100px;
+    height: 49px;
   }
 
   .counter-btn_reset {
-    width: 50px;
+    width: 47px;
   }
 
   .counter-button img {
@@ -547,7 +548,7 @@ footer p {
   }
 
   .about ul li svg {
-    width: 10px;
+    width: 8px;
     height: 10px;
   }
 

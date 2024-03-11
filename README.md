@@ -33,8 +33,9 @@ Open [http://localhost:5174/](http://localhost:5174) in your browser
 
   
 
- ![Live site](numeric-counter-git-main-ayaobaestelle.vercel.app
-) 
+
+Check out the [live site](numeric-counter-git-main-ayaobaestelle.vercel.app)
+
 
 
 

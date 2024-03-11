@@ -28,7 +28,13 @@ Open [http://localhost:5174/](http://localhost:5174) in your browser
 * The Test Error Boundary Page
 * The About page which contains information on how to use the Application
 
-  ![Screenshot from 2023-10-20 21-19-12](https://github.com/AyaobaEstelle/AltSchool-Second-Semester-Examination-Project/assets/107326513/4327ad80-75da-4cf7-b545-e49ead1bfc06)
+  
+![Screenshot from 2024-03-11 21-39-19](https://github.com/AyaobaEstelle/counter-2/assets/107326513/91743e3d-d7b5-4b36-a7a6-ad4e7d95dd90)
+
+  
+
+ ![Live site](numeric-counter-git-main-ayaobaestelle.vercel.app
+) 
 
 
 

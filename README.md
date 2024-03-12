@@ -1,6 +1,6 @@
 # Counter App
 
-##  AltSchool Second Semester Examination Project 
+## AltSchool Second Semester Examination Project 
 
 ### Getting Started
 
@@ -33,8 +33,6 @@ Open [http://localhost:5174/](http://localhost:5174) in your browser
 
   
 
-
-Check out the [live site](numeric-counter.vercel.app) 
 
 
 

@@ -24,9 +24,9 @@ Open [http://localhost:5174/](http://localhost:5174) in your browser
 
 
 ### This Application have 3 pages 
-* The counter page which is also the landing page
-* The Test Error Boundary Page
-* The About page which contains information on how to use the Application
+* Counter page
+* Error Boundary Page
+* About page
 
   
 ![Screenshot from 2024-03-11 21-39-19](https://github.com/AyaobaEstelle/counter-2/assets/107326513/91743e3d-d7b5-4b36-a7a6-ad4e7d95dd90)

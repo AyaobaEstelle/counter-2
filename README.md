@@ -18,9 +18,6 @@ npm install
 ```
 npm run dev
 ```
-4. To  view the Application.
-   
-Open [http://localhost:5174/](http://localhost:5174) in your browser
 
 
 ### This Application have 3 pages 
